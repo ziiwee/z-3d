@@ -1,5 +1,2 @@
-# Webpack 脚手架
+# 3D 快速开发库
 
-```
-git clone https://gitee.com/ziiwee/template-webpack.git newApp
-```

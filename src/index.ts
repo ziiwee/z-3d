@@ -1,2 +1,8 @@
+import { Object3D } from "three"
+import ThreejsModel from "./threejs_impl/Model"
 
-document.body.innerHTML="<h1>hello</h1>"
+
+
+
+
+
